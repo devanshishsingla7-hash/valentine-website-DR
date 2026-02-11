@@ -45,7 +45,7 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "Babbu"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
@@ -109,7 +109,7 @@ animations: {
 music: {
     enabled: true, // Music feature is enabled
     autoplay: true, // Try to autoplay (note: some browsers may block this)
-    musicUrl: "YOUR_CLOUDINARY_URL_HERE", // Paste your music URL here
+    musicUrl: "", // Paste your music URL here
     startText: "🎵 Play Music", // Button text to start music
     stopText: "🔇 Stop Music", // Button text to stop music
     volume: 0.5 // Volume level (0.0 to 1.0)
@@ -146,7 +146,7 @@ Want to make it extra special with your own romantic song? Follow these steps to
 music: {
     enabled: true,
     autoplay: true,
-    musicUrl: "YOUR_CLOUDINARY_URL_HERE", // Paste your URL here
+    musicUrl:https://music.youtube.com/watch?v=cUmUOb7j3dc, // [Paste your URL here](https://music.youtube.com/watch?v=cUmUOb7j3dc)
     startText: "🎵 Play Music",
     stopText: "🔇 Stop Music",
     volume: 0.5
@@ -187,19 +187,11 @@ Find more emojis at:
 - [EmojiKeyboard](https://emojikeyboard.top/fr/)
 - [Emojipedia](https://emojipedia.org/)
 
-## 💖 Credits
-Created with love for Valentine's Day 2026.
-Feel free to use and modify for your special someone!
 
-\- Louis Fontaine -
 
-## ❤️ Support this project
 
-This Valentine website template is completely **free and open-source**.
 
-If it helped you create something special, you can support the project with a small donation:
 
-👉 [Tip](https://buy.stripe.com/bJefZa8Le7fvgDe3ric7u00)
 
 Thank you for keeping it alive!
 
